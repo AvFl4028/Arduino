@@ -3,4 +3,4 @@
 <h2>LDR</h2>
 <h2>Pot-led</h2>
 <h2>ServoMotor</h2>
-<h2>Test Leds Blutooth</h2>
+<h2>Test Leds Bluetooth</h2>
